@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/8bit_beeep.ogg-cf1ec64990f8d17afbd4443726ea199c.oggstr"
+
+[deps]
+
+source_file="res://Assets/8bit_beeep.ogg"
+dest_files=[ "res://.import/8bit_beeep.ogg-cf1ec64990f8d17afbd4443726ea199c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
